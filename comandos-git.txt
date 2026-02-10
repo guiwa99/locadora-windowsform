@@ -1,0 +1,9 @@
+git clone <url_repo> - clonar um repositorio para a máquina
+
+git add . - adiciona todos os arquivos para serem commitados
+
+git commit -m "mensagem" - commita os arquivos com a mensagem definida no comando
+
+git push - envia das mundanças de fato para o repositorio
+
+git pull - baixa as mudanças do repositorio
