@@ -7,14 +7,19 @@ Criar um projeto com o intuito de ser um software para adminstração de uma loc
 1. Tela inicial para escolher tipo de acesso (usuário ou adminstrador).
 
 2. Tela de login para administrador.
+- Precisa ter usuário e senha.
 
 3. Tela de login para o usuário.
+- Pode ser usuário e senha ou apenas um usuário.
 
 4. Tela principal com a listagem de todos os itens cadastrados, exibindo apenas algumas informações para identificar o item.
 - Ordenar em ordem alfabética
 - Tanto o usuário quanto o adminstrador podem ter acesso.
 
 5. Tela para cadastrar um novo item, pedindo as informações necessárias para o adminstrador preencher e poder salvar o item.
+- No mínimo 5 informações do item. 
+- Exemplo:
+    - Se for um carro: modelo, marca, preço, cor, ano.
 - Apenas o administrador tem acesso.
 
 6. Tela para editar um item existente, pedindo as informações necessárias para editar e salvar o novo item. 
@@ -44,6 +49,9 @@ Criar um projeto com o intuito de ser um software para adminstração de uma loc
 - Tanto o usuário quanto o adminstrador podem ter acesso.
 
 12. Tela para cadastrar um novo usuário, pedindo as informações necessárias para o adminstrador preencher e poder salvar o usuário.
+- No mínimo 5 informações do usuário.
+- Exemplo:
+    - Nome, cpf, email, telefone, data de nascimento.
 - Apenas o administrador tem acesso.
 
 13. Tela para editar um usuário existente, pedindo as informações necessárias para editar e salvar o usuário.
